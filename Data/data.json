@@ -1,0 +1,418 @@
+[
+  {
+    "question": "What are the opening hours of the bank?",
+    "answer": "The bank is open from 8 AM to 4 PM from Sunday to Thursday."
+  },
+  {
+    "question": "How can I open a savings account?",
+    "answer": "You can open a savings account by visiting any of our branches with your ID and proof of address."
+  },
+  {
+    "question": "What documents are required to open a current account?",
+    "answer": "You need a valid ID, proof of address, and a completed account application form."
+  },
+  {
+    "question": "Can I open a bank account online?",
+    "answer": "Yes, you can open certain types of accounts online through our website."
+  },
+  {
+    "question": "What is the minimum balance required for a savings account?",
+    "answer": "The minimum balance required is $100."
+  },
+  {
+    "question": "How can I apply for a credit card?",
+    "answer": "You can apply for a credit card by filling out an application form at any of our branches or online."
+  },
+  {
+    "question": "What are the benefits of a Platinum credit card?",
+    "answer": "The Platinum credit card offers higher credit limits, exclusive rewards, and travel insurance."
+  },
+  {
+    "question": "How can I reset my online banking password?",
+    "answer": "You can reset your password by clicking on 'Forgot Password' on the login page and following the instructions."
+  },
+  {
+    "question": "What is the interest rate on savings accounts?",
+    "answer": "The interest rate varies depending on the type of savings account. Please check our website for the latest rates."
+  },
+  {
+    "question": "How can I transfer money internationally?",
+    "answer": "You can transfer money internationally through our online banking system or by visiting a branch."
+  },
+  {
+    "question": "What is the SWIFT code for international transfers?",
+    "answer": "The SWIFT code for the Bank of Palestine is PALSPS22."
+  },
+  {
+    "question": "How can I check my account balance?",
+    "answer": "You can check your account balance through online banking, mobile banking, or by visiting an ATM."
+  },
+  {
+    "question": "What fees are associated with a current account?",
+    "answer": "Fees vary depending on the account type. Please refer to our fees schedule on our website."
+  },
+  {
+    "question": "How do I report a lost or stolen credit card?",
+    "answer": "You should immediately contact our customer service center to report a lost or stolen card."
+  },
+  {
+    "question": "Can I deposit a cheque at an ATM?",
+    "answer": "Yes, you can deposit cheques at select ATMs that support cheque deposits."
+  },
+  {
+    "question": "What is the process for closing a bank account?",
+    "answer": "To close an account, please visit a branch and fill out an account closure form."
+  },
+  {
+    "question": "How can I update my personal information?",
+    "answer": "You can update your personal information by logging into online banking or visiting a branch."
+  },
+  {
+    "question": "What is the maximum withdrawal limit from an ATM?",
+    "answer": "The maximum withdrawal limit is $2,000 per day."
+  },
+  {
+    "question": "How can I apply for a loan?",
+    "answer": "You can apply for a loan by visiting a branch and filling out an application form or by applying online."
+  },
+  {
+    "question": "What types of loans are available?",
+    "answer": "We offer personal loans, home loans, auto loans, and business loans."
+  },
+  {
+    "question": "How can I view my transaction history?",
+    "answer": "You can view your transaction history through online banking or by requesting a statement at a branch."
+  },
+  {
+    "question": "What is the interest rate on personal loans?",
+    "answer": "Interest rates vary depending on the loan amount and term. Please check our website for the latest rates."
+  },
+  {
+    "question": "Can I make loan repayments online?",
+    "answer": "Yes, you can make loan repayments through our online banking system."
+  },
+  {
+    "question": "How can I order a new chequebook?",
+    "answer": "You can order a new chequebook through online banking or by visiting a branch."
+  },
+  {
+    "question": "What is the exchange rate for USD to ILS?",
+    "answer": "Exchange rates vary daily. Please check our website or contact us for the latest rates."
+  },
+  {
+    "question": "How do I set up a direct debit?",
+    "answer": "You can set up a direct debit by filling out a direct debit mandate form and submitting it to your service provider."
+  },
+  {
+    "question": "What is the process for disputing a transaction?",
+    "answer": "To dispute a transaction, please contact our customer service center with the transaction details."
+  },
+  {
+    "question": "Can I open a joint account?",
+    "answer": "Yes, you can open a joint account by visiting a branch with the co-applicant."
+  },
+  {
+    "question": "What is the process for wire transfers?",
+    "answer": "You can initiate a wire transfer through online banking or by visiting a branch."
+  },
+  {
+    "question": "Are there any fees for wire transfers?",
+    "answer": "Yes, there are fees for wire transfers. Please refer to our fees schedule on our website."
+  },
+  {
+    "question": "How can I enroll in mobile banking?",
+    "answer": "You can enroll in mobile banking by downloading our mobile app and following the registration process."
+  },
+  {
+    "question": "What should I do if I forget my PIN?",
+    "answer": "If you forget your PIN, please contact our customer service center to reset it."
+  },
+  {
+    "question": "Can I link my account to a mobile wallet?",
+    "answer": "Yes, you can link your account to supported mobile wallets."
+  },
+  {
+    "question": "How can I stop a cheque payment?",
+    "answer": "You can request a stop payment by contacting our customer service center or visiting a branch."
+  },
+  {
+    "question": "What types of investment accounts are available?",
+    "answer": "We offer various investment accounts, including fixed deposits and mutual funds."
+  },
+  {
+    "question": "How can I check the status of my loan application?",
+    "answer": "You can check the status of your loan application by contacting our loan department."
+  },
+  {
+    "question": "What is the customer service contact number?",
+    "answer": "Our customer service contact number is 1800-123-456."
+  },
+  {
+    "question": "How can I set up alerts for my account?",
+    "answer": "You can set up account alerts through online banking or mobile banking."
+  },
+  {
+    "question": "What are the fees for foreign currency transactions?",
+    "answer": "Fees for foreign currency transactions vary. Please check our fees schedule on our website."
+  },
+  {
+    "question": "How can I get a copy of my account statement?",
+    "answer": "You can get a copy of your account statement through online banking or by requesting it at a branch."
+  },
+  {
+    "question": "Can I schedule automatic payments?",
+    "answer": "Yes, you can schedule automatic payments through online banking."
+  },
+  {
+    "question": "How can I register for online banking?",
+    "answer": "You can register for online banking by visiting our website and following the registration process."
+  },
+  {
+    "question": "What should I do if my account is locked?",
+    "answer": "If your account is locked, please contact our customer service center to unlock it."
+  },
+  {
+    "question": "Can I set spending limits on my debit card?",
+    "answer": "Yes, you can set spending limits on your debit card through online banking or by contacting customer service."
+  },
+  {
+    "question": "What is the process for applying for a mortgage?",
+    "answer": "You can apply for a mortgage by visiting a branch and filling out an application form or by applying online."
+  },
+  {
+    "question": "What is the interest rate on mortgages?",
+    "answer": "Interest rates on mortgages vary depending on the loan amount and term. Please check our website for the latest rates."
+  },
+  {
+    "question": "How can I get a loan statement?",
+    "answer": "You can get a loan statement through online banking or by requesting it at a branch."
+  },
+  {
+    "question": "Can I refinance my mortgage?",
+    "answer": "Yes, you can refinance your mortgage. Please contact our mortgage department for more information."
+  },
+  {
+    "question": "What is the process for a balance transfer?",
+    "answer": "You can initiate a balance transfer by filling out a balance transfer form and submitting it to us."
+  },
+  {
+    "question": "Are there any fees for early loan repayment?",
+    "answer": "Yes, there may be fees for early loan repayment. Please refer to your loan agreement for details."
+  },
+  {
+    "question": "How can I change my loan repayment schedule?",
+    "answer": "You can change your loan repayment schedule by contacting our loan department."
+  },
+  {
+    "question": "What is the overdraft limit for a current account?",
+    "answer": "The overdraft limit varies depending on the account type. Please contact us for more details."
+  },
+  {
+    "question": "How can I report fraudulent activity on my account?",
+    "answer": "To report fraudulent activity, please contact our customer service center immediately."
+  },
+  {
+    "question": "Can I get a personal loan if I am self-employed?",
+    "answer": "Yes, self-employed individuals can apply for a personal loan by providing proof of income and business registration documents."
+  },
+  {
+    "question": "What is the maximum loan amount I can apply for?",
+    "answer": "The maximum loan amount depends on the type of loan and your creditworthiness. Please contact us for more details."
+  },
+  {
+    "question": "How can I get a credit card statement?",
+    "answer": "You can get a credit card statement through online banking or by requesting it at a branch."
+  },
+  {
+    "question": "What are the fees for using an ATM abroad?",
+    "answer": "Fees for using an ATM abroad vary. Please refer to our fees schedule on our website."
+  },
+  {
+    "question": "How can I update my contact information?",
+    "answer": "You can update your contact information through online banking or by visiting a branch."
+  },
+  {
+    "question": "Can I open a fixed deposit account online?",
+    "answer": "Yes, you can open a fixed deposit account online through our website."
+  },
+  {
+    "question": "What is the minimum amount required for a fixed deposit?",
+    "answer": "The minimum amount required for a fixed deposit is $1,000."
+  },
+  {
+    "question": "How can I redeem my fixed deposit?",
+    "answer": "You can redeem your fixed deposit by visiting a branch or through online banking."
+  },
+  {
+    "question": "What is the penalty for early withdrawal of a fixed deposit?",
+    "answer": "The penalty for early withdrawal varies. Please refer to the fixed deposit terms and conditions."
+  },
+  {
+    "question": "How can I apply for internet banking?",
+    "answer": "You can apply for internet banking by visiting our website and completing the registration process."
+  },
+  {
+    "question": "What is the process for applying for a business loan?",
+    "answer": "You can apply for a business loan by visiting a branch and filling out an application form or by applying online."
+  },
+  {
+    "question": "What are the interest rates for business loans?",
+    "answer": "Interest rates for business loans vary depending on the loan amount and term. Please check our website for the latest rates."
+  },
+  {
+    "question": "How can I get a business loan statement?",
+    "answer": "You can get a business loan statement through online banking or by requesting it at a branch."
+  },
+  {
+    "question": "Can I open a business account online?",
+    "answer": "Yes, you can open a business account online through our website."
+  },
+  {
+    "question": "What documents are required to open a business account?",
+    "answer": "You need a business registration certificate, proof of address, and identification documents for the account signatories."
+  },
+  {
+    "question": "How can I apply for a business credit card?",
+    "answer": "You can apply for a business credit card by filling out an application form at any of our branches or online."
+  },
+  {
+    "question": "What are the benefits of a business credit card?",
+    "answer": "A business credit card offers benefits such as expense management, higher credit limits, and business rewards."
+  },
+  {
+    "question": "How can I activate my new credit card?",
+    "answer": "You can activate your new credit card by following the instructions provided with the card or by contacting customer service."
+  },
+  {
+    "question": "What is the interest-free period on credit cards?",
+    "answer": "The interest-free period on credit cards is typically up to 45 days."
+  },
+  {
+    "question": "Can I pay my credit card bill online?",
+    "answer": "Yes, you can pay your credit card bill through online banking or mobile banking."
+  },
+  {
+    "question": "What is the process for increasing my credit card limit?",
+    "answer": "You can request a credit card limit increase by contacting our customer service center and providing proof of income."
+  },
+  {
+    "question": "How can I view my credit card rewards points?",
+    "answer": "You can view your credit card rewards points through online banking or by contacting customer service."
+  },
+  {
+    "question": "Can I convert my credit card purchases into EMIs?",
+    "answer": "Yes, you can convert eligible credit card purchases into EMIs by contacting our customer service center."
+  },
+  {
+    "question": "What is the fee for late payment of credit card bills?",
+    "answer": "The fee for late payment varies. Please refer to our credit card terms and conditions for details."
+  },
+  {
+    "question": "How can I set up a standing order?",
+    "answer": "You can set up a standing order through online banking or by visiting a branch."
+  },
+  {
+    "question": "What is the process for changing my account type?",
+    "answer": "You can change your account type by visiting a branch and filling out the necessary forms."
+  },
+  {
+    "question": "Can I get a loan against my fixed deposit?",
+    "answer": "Yes, you can get a loan against your fixed deposit. Please contact us for more details."
+  },
+  {
+    "question": "What is the process for redeeming credit card rewards points?",
+    "answer": "You can redeem credit card rewards points through our online rewards portal or by contacting customer service."
+  },
+  {
+    "question": "How can I get a duplicate bank statement?",
+    "answer": "You can request a duplicate bank statement through online banking or by visiting a branch."
+  },
+  {
+    "question": "Can I open a minor account?",
+    "answer": "Yes, you can open a minor account by visiting a branch with the minor's birth certificate and the guardian's ID."
+  },
+  {
+    "question": "What is the interest rate on fixed deposits?",
+    "answer": "The interest rate on fixed deposits varies depending on the term. Please check our website for the latest rates."
+  },
+  {
+    "question": "How can I get my tax statement?",
+    "answer": "You can get your tax statement through online banking or by requesting it at a branch."
+  },
+  {
+    "question": "What is the process for linking my account to my Aadhaar?",
+    "answer": "You can link your account to your Aadhaar by visiting a branch with your Aadhaar card."
+  },
+  {
+    "question": "How can I apply for an education loan?",
+    "answer": "You can apply for an education loan by visiting a branch and filling out an application form or by applying online."
+  },
+  {
+    "question": "What are the repayment options for education loans?",
+    "answer": "Repayment options for education loans vary. Please contact our loan department for more details."
+  },
+  {
+    "question": "Can I get a pre-approved loan?",
+    "answer": "Yes, you may be eligible for a pre-approved loan based on your credit history. Please contact us for more details."
+  },
+  {
+    "question": "What is the process for updating my KYC details?",
+    "answer": "You can update your KYC details by visiting a branch with the required documents."
+  },
+  {
+    "question": "How can I block my lost debit card?",
+    "answer": "You can block your lost debit card by contacting our customer service center immediately."
+  },
+  {
+    "question": "What are the charges for a cheque bounce?",
+    "answer": "The charges for a cheque bounce vary. Please refer to our fees schedule on our website."
+  },
+  {
+    "question": "Can I open an NRI account?",
+    "answer": "Yes, you can open an NRI account by visiting a branch with the required documents."
+  },
+  {
+    "question": "How can I transfer funds between my accounts?",
+    "answer": "You can transfer funds between your accounts through online banking, mobile banking, or by visiting a branch."
+  },
+  {
+    "question": "What is the process for activating mobile banking?",
+    "answer": "You can activate mobile banking by downloading our mobile app and following the registration process."
+  },
+  {
+    "question": "How can I check the status of my cheque?",
+    "answer": "You can check the status of your cheque through online banking or by contacting customer service."
+  },
+  {
+    "question": "What is the process for updating my nominee details?",
+    "answer": "You can update your nominee details by visiting a branch and filling out the necessary forms."
+  },
+  {
+    "question": "Can I get a loan against my insurance policy?",
+    "answer": "Yes, you can get a loan against your insurance policy. Please contact us for more details."
+  },
+  {
+    "question": "What is the process for applying for a personal loan online?",
+    "answer": "You can apply for a personal loan online by visiting our website and completing the application form."
+  },
+  {
+    "question": "What is the minimum amount required for a business loan?",
+    "answer": "The minimum amount required for a business loan varies. Please contact us for more details."
+  },
+  {
+    "question": "How can I close my credit card account?",
+    "answer": "You can close your credit card account by contacting our customer service center and submitting a closure request."
+  },
+  {
+    "question": "What are the benefits of a gold credit card?",
+    "answer": "A gold credit card offers benefits such as higher credit limits, exclusive rewards, and travel insurance."
+  },
+  {
+    "question": "How can I pay my utility bills online?",
+    "answer": "You can pay your utility bills through our online banking or mobile banking services."
+  },
+  {
+    "question": "what is your name ?",
+    "answer": "My name is Bank of Palestine AI-GPT model ! long name !!"
+  }
+]
