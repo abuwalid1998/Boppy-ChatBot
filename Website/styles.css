@@ -1,0 +1,133 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.chat-container {
+    background-color: #fff;
+    width: 600px; /* Increased width */
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    overflow: hidden; /* Ensures rounded corners display properly */
+    display: flex;
+    flex-direction: column; /* Arrange children in a column */
+    justify-content: space-between; /* Distribute space evenly between children */
+    height: 50%;
+}
+
+.chat-box {
+    flex: 1; /* Take remaining space */
+    overflow-y: auto; /* Allow scrolling within chat box */
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    background: linear-gradient(to bottom, #f9f9f9, #ffffff);
+    border: 1px solid #ddd;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-input {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+input[type="text"] {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    outline: none;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+input[type="text"]:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.3);
+}
+
+button {
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.message {
+    display: flex;
+    align-items: flex-start;
+    clear: both;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.message.received {
+    justify-content: flex-end; /* Align received messages to the right */
+}
+
+.message.sent {
+    justify-content: flex-start; /* Align sent messages to the left */
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.message-content {
+    max-width: 70%; /* Adjust as needed */
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.message.sent .message-content {
+    order: 2; /* Ensure message content is after avatar for sent messages */
+}
+
+.message.received .message-content {
+    order: 1; /* Ensure message content is before avatar for received messages */
+}
+
+.footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f3f3f3;
+    border-top: 1px solid #ddd;
+    margin-left: 20px;
+    bottom: 20%;
+}
+
+.copy-right-sec{
+    padding: 1.8rem;
+      background: #82074a;
+      color: #fff;
+      text-align: center;
+  }
+  .copy-right-sec a{
+    color: #fcd462;
+      font-weight: 500;
+  }
+  a{
+    text-decoration:none;
+  }
+  
+  /* footer section end */
