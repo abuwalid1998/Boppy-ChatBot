@@ -27,6 +27,8 @@ Python, HTML, CSS, Springboot
 
 Hugging Face Model Link
 
+![Hugging Face Logo](https://huggingface.co/front/assets/huggingface_logo.svg)
+
 ```bash
   https://huggingface.co/AmjadKha/Boppy
 ```
