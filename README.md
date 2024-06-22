@@ -13,3 +13,27 @@ I have created a text-generation model named Boppy, designed to assist as a comp
 - Cross platform website with free Trail V 2.0.0
 
 
+
+
+## 🛠 Languages and Freamworks
+Python, HTML, CSS, Springboot 
+
+
+
+
+
+
+## Some Links 
+
+Hugging Face Model Link
+
+```bash
+  https://huggingface.co/AmjadKha/Boppy
+```
+
+Datasets used in Training Process
+
+```bash
+  https://huggingface.co/datasets/AmjadKha/BankingDataset
+```
+
